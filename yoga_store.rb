@@ -47,9 +47,3 @@ def checkout
 end
 
 purchase_item
-
-=begin unless yesno.upcase == "n"
-  user_buys_stuff
-=end
-
-# && val == user_input
